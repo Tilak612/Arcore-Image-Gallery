@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728835086374",
+    "project_id": "arcorimage",
+    "storage_bucket": "arcorimage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728835086374:android:a10d8634efec2f5d9eeee7",
+        "android_client_info": {
+          "package_name": "com.example.arcorimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728835086374-stmm7rrv6t1at48eusndppu17gtfhdu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyrjIjiGlQnbVbgwA0tJDbtgcvzXj3exo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728835086374-stmm7rrv6t1at48eusndppu17gtfhdu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
